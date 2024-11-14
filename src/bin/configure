@@ -1,0 +1,8 @@
+#/bin/bash
+export LANGCHAIN_TRACING_V2="true"
+export LANGCHAIN_ENDPOINT="http://api.smith.langchain.com"
+export LANGCHAIN_TRACING_V2=false
+source ../../.secret
+
+
+
