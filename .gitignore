@@ -1,5 +1,4 @@
 bin
-./src/bin/configure
 conda-meta
 etc
 include
