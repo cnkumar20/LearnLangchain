@@ -1,0 +1,10 @@
+bin
+./src/bin/configure
+conda-meta
+etc
+include
+lib
+man
+share
+ssl
+.secret
